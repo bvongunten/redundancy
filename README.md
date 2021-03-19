@@ -1,2 +1,3 @@
-# redundantobjects
-Test of having redundant objects
+# Redundancy
+
+Test of having redundant annotations with same RetentionPolicy in multiple modules
